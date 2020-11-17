@@ -1,5 +1,7 @@
 # Spanish Resources
 
+> Al no poder poner utilizar la **ñ** en el nombre del repositorio, hemos decidido utilizar un título en inglés 🤪
+
 Lista de recursos en español de **CSS Houdini**
 
 ## Artículos
